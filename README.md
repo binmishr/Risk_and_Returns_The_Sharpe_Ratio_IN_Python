@@ -1,1 +1,26 @@
-# Risk_and_Returns_The_Sharpe_Ratio_IN_Python
+# Risk and Returns The Sharpe Ratio IN Python
+
+Project Description 
+==================== 
+When you assess whether to invest in an asset, you want to look not only at how much money you could make but also at how much risk you are taking. The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago, does precisely this: it compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns.
+
+In this project, you will apply the Sharpe ratio to real financial data using pandas. Before starting this project you, 
+should have completed the knowledge of  "Importing and Managing Financial Data using Python".
+
+How to Open notebook.ipynb Project File 
+=======================================  
+
+i) Free download and install Anaconda from https://www.anaconda.com/download/ based upon your computer's operating system.
+
+ii) After downloading Anaconda, Launch "Jupyter Notebook" from Start Menu -> Anaconda.
+
+iii) Move to the directory on "Jupyter Notebook" where you have stored the .ipynb file.
+
+iv) Double click to open the File on "Jupyter Notebook" software.
+
+v) The Jupyter notebook shall reside under the folder "Risk_and_Returns_The_Sharpe_Ratio_IN_Python". 
+   You can download the Risk_and_Returns_The_Sharpe_Ratio_IN_Python.zip file and unzip at your favorite location to see the notebook.
+
+vi) The datasets which are used on this project shall reside under the folder Risk and Returns The Sharpe Ratio\_\datasets
+
+vii) All the required images shall reside under folder Risk and Returns The Sharpe Ratio\_\img
